@@ -26,5 +26,4 @@ Alex is not just a silent genius; it's your chatty, creative sidekick! It can no
 - animate do - 3.1.2
 ## Screenshots
 
-<img src="https://github.com/Kallol001/Alex---Smart-Voice-Assistant/assets/121399773/14c7f06d-98af-476c-aef4-8d3bf375faec" width="100" height="100">
-![Demo](Demo/Demo.gif)
+![App Screenshot]<img src="https://github.com/Kallol001/Alex---Smart-Voice-Assistant/assets/121399773/14c7f06d-98af-476c-aef4-8d3bf375faec" width="50" height="100">
