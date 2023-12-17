@@ -17,6 +17,8 @@ Alex is not just a silent genius; it's your chatty, creative sidekick! It can no
 - 𝗩𝗼𝗶𝗰𝗲 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗖𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀: Ask Alex anything, and it will strive to provide informative and relevant responses. Whether you prefer reading or listening, Alex has got you covered.
 - 𝗔𝗜 𝗜𝗺𝗮𝗴𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻: Harnessing the DALL·E API, Alex can create imaginative and unique images based on textual descriptions. Witness your words come to life in vibrant visuals.
 - 𝗩𝗼𝗶𝗰𝗲 𝗘𝗻𝗮𝗯𝗹𝗲𝗱 : Alex, equipped with voice, can recite the solutions to all your queries.
+- 𝗕𝘂𝗶𝗹𝘁 𝘄𝗶𝘁𝗵 𝗙𝗹𝘂𝘁𝘁𝗲𝗿: Utilizing the power of Flutter, the app delivers a smooth and responsive user interface, making task management a breeze.
+- 𝗥𝘂𝗻𝘀 𝗶𝗻 𝗕𝗼𝘁𝗵 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 & 𝗶𝗢𝗦
 
 
 ## Dependencies
@@ -24,6 +26,8 @@ Alex is not just a silent genius; it's your chatty, creative sidekick! It can no
 - DALL-E API
 - speech to text - 6.5.0
 - animate do - 3.1.2
+- Flutter
+
 ## Screenshots
 
 <p>
